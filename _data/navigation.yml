@@ -6,12 +6,3 @@ links:
     url: /people
   - title: Contact Us
     url: /contact-us/
-  - title: Example Folder
-    collection: example-folder
-  - title: New folder
-    collection: example-folder
-  - title: New menu group
-    url: /permalink
-    sublinks:
-      - title: test1
-        url: /permalink
