@@ -10,8 +10,6 @@ sections:
       title: CAP VISTA
       subtitle: Investing in and Harnessing Dual-use Technologies for our Future
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Who we Are
           description: 30 chars only
@@ -23,7 +21,7 @@ sections:
           description: Again, 30 chars only
           url: ""
       variant: side
-      size: sm
+      size: md
       alignment: left
       backgroundColor: gray
   - infocols:
