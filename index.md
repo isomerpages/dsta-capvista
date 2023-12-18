@@ -8,9 +8,7 @@ notification: Welcome to Cap Vista!
 sections:
   - hero:
       title: CAP VISTA
-      subtitle: THE STRATEGIC INVESTMENT ARM OF SINGAPORE’S DEFENCE SCIENCE AND
-        TECHNOLOGY AGENCY (DSTA), CAP VISTA SCOUTS FOR TECH COMPANIES WITH
-        DUAL-USE APPLICATIONS.
+      subtitle: Investing and Harnessing Dual-use Technologies for our Future
       background: /images/hero-banner.png
       button: Contact Us
       url: contactus@capvista.com.sg
