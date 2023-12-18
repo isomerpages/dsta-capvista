@@ -11,25 +11,77 @@ sections:
       subtitle: Investing and Harnessing Dual-use Technologies for our Future
       background: /images/hero-banner.png
       button: Contact Us
-      url: contactus@capvista.com.sg
+      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Who we Are
+          description: 30 chars only
+          url: ""
+        - title: What we Do
+          description: 30 chars only
+          url: ""
+        - title: What we Offer
+          description: Again, 30 chars only
+          url: ""
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infocols:
+      title: Need this text here. Cannot empty.
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Who we Are
+          description: A subsidiary of DSTA, Cap Vista scouts for tech companies with
+            potential dual-use applications for defence.
+        - title: What we Do
+          description: We invest in and engage with early-stage tech companies.
+        - title: What we Offer
+          description: Here can have 120 chars. Alternative is to use the purple column
+            (highlights) above.
+  - textcards:
+      title: Tech Focus Areas
+      subtitle: Can only have 4 Descriptions
+      id: textcards
+      cards:
+        - title: Focus 1 e.g. Drones
+          description: Can have optional description here
+          linktext: Need this link here.
+          url: ""
+        - title: Focus 2 e.g. AI
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Focus 3 e.g. Digital Systems
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: Focus 4 e.g. Clean Energy
+          description: ""
+          linktext: Learn more
+          url: ""
+  - textcards:
+      title: Additional Focus Areas
+      subtitle: Bo Bian need add 2 of these
+      id: textcards
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+  - infopic:
+      title: Focus area 1
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
