@@ -27,9 +27,8 @@ sections:
       alignment: left
       backgroundColor: gray
   - infocols:
-      title: Need this text here. Cannot empty.
+      title: Cap Vista
       id: infocols
-      linktext: Learn more
       infoboxes:
         - title: Who we Are
           description: A subsidiary of DSTA, Cap Vista scouts for tech companies with
@@ -41,47 +40,80 @@ sections:
             (highlights) above.
   - textcards:
       title: Tech Focus Areas
-      subtitle: Can only have 4 Descriptions
+      subtitle: Style 1
       id: textcards
       cards:
-        - title: Focus 1 e.g. Drones
+        - title: Artificial Intelligence
           description: Can have optional description here
-          linktext: Need this link here.
+          linktext: -Need this link here-
           url: ""
-        - title: Focus 2 e.g. AI
+        - title: Energy
           description: ""
           linktext: Learn more
           url: ""
-        - title: Focus 3 e.g. Digital Systems
+        - title: Quantum
           description: ""
           linktext: Learn more
           url: ""
-        - title: Focus 4 e.g. Clean Energy
+        - title: Robotics
           description: ""
           linktext: Learn more
           url: ""
   - textcards:
       title: Additional Focus Areas
-      subtitle: Bo Bian need add 2 of these
+      subtitle: Style 1-2
       id: textcards
       cards:
-        - title: Card
-          description: Card description
+        - title: Advanced Manufacturing
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Digital Systems
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Cybersecurity
+          description: ""
           linktext: Learn more
           url: ""
   - infopic:
-      title: Focus area 1
-      subtitle: Add an image and text
+      title: Artificial Intelligence
+      subtitle: Tech Focus Area - Style 2
       id: infopic
-      description: Infopic description
-      button: Button Text
       alt: Image alt text
+      image: /images/favicon-isomer.ico
+  - infopic:
+      title: Energy
+      subtitle: Tech Focus Area Style 2-2
+      id: infopic
+      image: /images/favicon-isomer.ico
+      alt: Image alt text
+  - infobar:
+      title: Artificial Intelligence
+      subtitle: Tech Focus Area - Style 3
+      id: infobar
+  - infobar:
+      title: Energy
+      subtitle: Tech Focus Area - Style 3-2
+      id: infobar
+  - infocols:
+      title: Tech Focus Area - Style 4
+      id: infocols
+      infoboxes:
+        - title: Artificial Intelligence
+          description: ""
+        - title: Energy
+          description: ""
+        - title: Quantum
+          description: ""
+  - infocols:
+      title: Additional Focus Area - Style 4-2
+      id: infocols
+      infoboxes:
+        - title: Advanced Manufacturing
+          description: ""
+        - title: Digital Systems
+          description: ""
+        - title: Cybersecurity
+          description: ""
 ---
