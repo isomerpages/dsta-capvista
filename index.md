@@ -2,7 +2,7 @@
 layout: homepage
 title: Cap Vista
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/cap_vista_logo.png
 permalink: /
 notification: ""
 sections:
