@@ -1,6 +1,6 @@
 title: Cap Vista
 url: https://www.capvista.com.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/cap_vista_logo.png
 colors:
   primary-color: "#589fe4"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d34mmrdqwwop9b.amplifyapp.com
 prod: https://master.d27cpvsj0bgj9b.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/cap_vista_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
