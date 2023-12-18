@@ -120,5 +120,5 @@ sections:
       id: infobar
       description: Have a dual-use technology?
       button: Pitch to us!
-      url: team@capvista.com.sg
+      url: /contact-us
 ---
