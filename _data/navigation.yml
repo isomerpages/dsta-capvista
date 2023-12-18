@@ -1,11 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Portfolio
     url: /portfolio/
   - title: People
     url: /people
+  - title: Contact Us
+    url: /contact-us/
   - title: Example Folder
     collection: example-folder
   - title: New folder
