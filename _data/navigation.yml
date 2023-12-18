@@ -4,6 +4,8 @@ links:
     url: /contact-us/
   - title: Portfolio
     url: /portfolio/
+  - title: People
+    url: /people
   - title: Example Folder
     collection: example-folder
   - title: New folder
