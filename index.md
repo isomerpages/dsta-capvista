@@ -114,4 +114,11 @@ sections:
           description: ""
         - title: Cybersecurity
           description: ""
+  - infobar:
+      title: Have a dual-use technology?
+      subtitle: Have a dual-use technology?
+      id: infobar
+      description: Have a dual-use technology?
+      button: Pitch to us!
+      url: team@capvista.com.sg
 ---
