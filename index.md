@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Cap Vista!
+notification: ""
 sections:
   - hero:
       title: CAP VISTA
-      subtitle: Investing and Harnessing Dual-use Technologies for our Future
+      subtitle: Investing in and Harnessing Dual-use Technologies for our Future
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
@@ -22,8 +22,8 @@ sections:
         - title: What we Offer
           description: Again, 30 chars only
           url: ""
-      variant: center
-      size: md
+      variant: side
+      size: sm
       alignment: left
       backgroundColor: gray
   - infocols:
