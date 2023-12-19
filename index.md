@@ -9,7 +9,7 @@ sections:
   - hero:
       title: CAP VISTA
       subtitle: Investing in and Harnessing Dual-use Technologies for our Future
-      background: /images/hero-banner.png
+      background: /images/AdobeStock_300517741_Singapore___Copy.jpeg
       key_highlights:
         - title: Who we Are
           description: 30 chars only
@@ -20,7 +20,7 @@ sections:
         - title: What we Offer
           description: Again, 30 chars only
           url: ""
-      variant: side
+      variant: center
       size: md
       alignment: left
       backgroundColor: gray
@@ -86,10 +86,6 @@ sections:
       id: infopic
       image: /images/favicon-isomer.ico
       alt: Image alt text
-  - infobar:
-      title: Artificial Intelligence
-      subtitle: Tech Focus Area - Style 3
-      id: infobar
   - infobar:
       title: Energy
       subtitle: Tech Focus Area - Style 3-2
