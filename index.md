@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: CAP VISTA
-      subtitle: Investing in and Harnessing Dual-use Technologies for our Future
+      title: Cap Vista
+      subtitle: Investing & Harnessing Dual-use Technologies for Singapore's National
+        Security
       background: /images/AdobeStock_300517741_Singapore___Copy.jpeg
       key_highlights:
         - title: Who we Are
