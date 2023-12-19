@@ -6,7 +6,7 @@ agency_name: Cap Vista
 locations:
   - address:
       - 3 Fusionopolis Place
-      - " #02-53 Galaxis Work Loft"
+      - "#02-53 Galaxis Work Loft"
       - Singapore 138523
     operating_hours: []
     maps_link: ""
@@ -16,7 +16,7 @@ contacts:
       - phone: ""
       - email: team@capvista.com.sg
       - other: ""
-    title: Pitch to us
+    title: Send Your Pitch Deck
   - content:
       - phone: ""
       - email: contactus@capvista.com.sg
