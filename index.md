@@ -37,85 +37,16 @@ sections:
         - title: What we Offer
           description: Here can have 120 chars. Alternative is to use the purple column
             (highlights) above.
-  - textcards:
-      title: Tech Focus Areas
-      subtitle: Style 1
-      id: textcards
-      cards:
-        - title: Artificial Intelligence
-          description: Can have optional description here
-          linktext: -Need this link here-
-          url: ""
-        - title: Energy
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Quantum
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Robotics
-          description: ""
-          linktext: Learn more
-          url: ""
-  - textcards:
-      title: Additional Focus Areas
-      subtitle: Style 1-2
-      id: textcards
-      cards:
-        - title: Advanced Manufacturing
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Digital Systems
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: Cybersecurity
-          description: ""
-          linktext: Learn more
-          url: ""
   - infopic:
       title: Artificial Intelligence
       subtitle: Tech Focus Area - Style 2
       id: infopic
       alt: Image alt text
       image: /images/favicon-isomer.ico
-  - infopic:
-      title: Energy
-      subtitle: Tech Focus Area Style 2-2
-      id: infopic
-      image: /images/favicon-isomer.ico
-      alt: Image alt text
-  - infobar:
-      title: Energy
-      subtitle: Tech Focus Area - Style 3-2
-      id: infobar
-  - infocols:
-      title: Tech Focus Area - Style 4
-      id: infocols
-      infoboxes:
-        - title: Artificial Intelligence
-          description: ""
-        - title: Energy
-          description: ""
-        - title: Quantum
-          description: ""
-  - infocols:
-      title: Additional Focus Area - Style 4-2
-      id: infocols
-      infoboxes:
-        - title: Advanced Manufacturing
-          description: ""
-        - title: Digital Systems
-          description: ""
-        - title: Cybersecurity
-          description: ""
   - infobar:
       title: Have a dual-use technology?
-      subtitle: Have a dual-use technology?
       id: infobar
-      description: Have a dual-use technology?
-      button: Pitch to us!
+      description: Together we grow ideas to impactful innovations
+      button: Send Your Pitch Deck to Us!
       url: /contact-us
 ---
