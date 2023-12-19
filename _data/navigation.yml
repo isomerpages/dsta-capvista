@@ -1,8 +1,10 @@
 logo: /images/cap_vista_logo.png
 links:
-  - title: Portfolio
-    url: /portfolio/
-  - title: People
+  - title: Cap Vista Accelerator
+    url: /permalink
+  - title: Our People
     url: /people
+  - title: Our Portfolio
+    url: /portfolio/
   - title: Contact Us
     url: /contact-us/
