@@ -31,8 +31,8 @@ sections:
       description: We validate technology and market demand with our network of
         engineering & tech talent and partners, to solve real compelling
         problems.
-      button: Read More
-      url: /success-stories
+      button: See Our Innovation Call
+      url: /accelerator
       alt: Image alt text
   - infopic:
       title: Opportunities to Propel Startup Growth
