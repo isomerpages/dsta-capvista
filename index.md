@@ -56,13 +56,14 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Advanced Sensing & Autonomy
-          description: ""
+          description: Bio-sensors, Advanced Imaging Sensors, Autonomy software with low
+            computational load etc
         - title: AI & Data
-          description: ""
+          description: Robustness in AI, Explainable AI, Multi-modal Data Exploitation etc
         - title: Cybersecurity & Digital Intelligence
-          description: ""
+          description: Threat Analysis & Intelligence, Cloud Security etc
         - title: Other Emerging Tech Areas
-          description: ""
+          description: Quantum Technologies, Advanced Materials, Advanced Communication etc
   - infopic:
       title: Meet the People who will be in the journey with you
       id: infopic
@@ -71,7 +72,7 @@ sections:
       alt: Image alt text
   - infocols:
       title: Innovative, Game-changing Technologies
-      subtitle: "What are we looking for "
+      subtitle: What are we looking for
       id: infocols
       linktext: See Our Portfolio Companies
       url: /portfolio
