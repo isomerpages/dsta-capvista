@@ -28,7 +28,8 @@ sections:
       title: Deliver Impactful Outcomes
       subtitle: What we do
       id: infopic
-      description: Infopic description
+      description: "We validate technology and market demand with our network of
+        engineering & tech talent and partners. "
       button: Read More
       url: /success-stories
       alt: Image alt text
@@ -36,9 +37,11 @@ sections:
       title: Opportunities to Propel Startup Growth
       subtitle: what we offer
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Beyond equity funding, we curate opportunities for startups to grow
+        their technologies and market.
+      button: Read More
       alt: Image alt text
+      url: /success-stories
   - infocols:
       title: Innovative & Impactful Tech Solutions
       subtitle: What we are looking for
