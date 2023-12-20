@@ -28,8 +28,8 @@ sections:
       title: Deliver Impactful Outcomes
       subtitle: What we do
       id: infopic
-      description: "We validate technology and market demand with our network of
-        engineering & tech talent and partners. "
+      description: We validate technology and market demand with our network of
+        engineering & tech talent and partners.
       button: Read More
       url: /success-stories
       alt: Image alt text
@@ -42,21 +42,6 @@ sections:
       button: Read More
       alt: Image alt text
       url: /success-stories
-  - infocols:
-      title: Innovative & Impactful Tech Solutions
-      subtitle: What we are looking for
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Advanced Sensing & Autonomy
-          description: Bio-sensors, Advanced Imaging Sensors, Autonomy software with low
-            computational load etc
-        - title: AI & Data
-          description: Robustness in AI, Explainable AI, Multi-modal Data Exploitation etc
-        - title: Cybersecurity & Digital Intelligence
-          description: Threat Analysis & Intelligence, Cloud Security etc
-        - title: Other Emerging Tech Areas
-          description: Quantum Technologies, Advanced Materials, Advanced Communication etc
   - infopic:
       title: Meet the People who will be in the journey with you
       id: infopic
