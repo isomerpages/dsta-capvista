@@ -10,7 +10,7 @@ sections:
       title: Cap Vista
       subtitle: Investing & Harnessing Dual-use Technologies for Singapore's National
         Security
-      background: /images/AdobeStock_300517741_Singapore___Copy.jpeg
+      background: /images/hero_image.jpeg
       key_highlights:
         - title: Who we Are
           description: 30 chars only
@@ -30,8 +30,8 @@ sections:
       id: infocols
       infoboxes:
         - title: Who we Are
-          description: A subsidiary of DSTA, Cap Vista scouts for tech companies with
-            potential dual-use applications for defence.
+          description: We scouts for tech companies with potential dual-use applications
+            for defence.
         - title: What we Do
           description: We invest in and engage with early-stage tech companies.
         - title: What we Offer
