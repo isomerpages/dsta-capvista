@@ -11,16 +11,6 @@ sections:
       subtitle: Investing & Harnessing Dual-use Technologies for Singapore's National
         Security
       background: /images/hero_image.jpeg
-      key_highlights:
-        - title: Who we Are
-          description: Strategic Deep Tech Investor
-          url: /about-us
-        - title: What we Do
-          description: Harness Dual-use Technologies
-          url: ""
-        - title: What we Offer
-          description: Opportunities for Startups
-          url: ""
       variant: center
       size: md
       alignment: left
