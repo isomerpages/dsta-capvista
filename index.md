@@ -25,6 +25,30 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
+  - infopic:
+      title: Strategic Investor
+      subtitle: We are
+      id: infopic
+      description: "We partner deep tech startups with innovative solutions to support
+        Singapore's national security. "
+      button: Learn More
+      url: /about-us
+      alt: Image alt text
+  - infopic:
+      title: Deliver Impactful Outcomes
+      subtitle: What we do
+      id: infopic
+      description: Infopic description
+      button: Read More
+      url: /success-stories
+      alt: Image alt text
+  - infopic:
+      title: Opportunities to Propel Startup Growth
+      subtitle: what we offer
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
   - infocols:
       title: Innovative & Impactful Tech Solutions
       subtitle: What we are looking for
@@ -45,26 +69,4 @@ sections:
       description: Together we grow ideas to impactful innovations
       button: Send Your Pitch Deck to Us!
       url: /contact-us
-  - textcards:
-      title: Text Cards
-      subtitle: Add informational text
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
 ---
