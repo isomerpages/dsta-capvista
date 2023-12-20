@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Who we Are
           description: Strategic Deep Tech Investor
-          url: ""
+          url: /about-us
         - title: What we Do
           description: Harness Dual-use Technologies
           url: ""
@@ -25,12 +25,20 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-  - infopic:
-      title: Artificial Intelligence
-      subtitle: Tech Focus Area - Style 2
-      id: infopic
-      alt: Image alt text
-      image: /images/favicon-isomer.ico
+  - infocols:
+      title: Innovative & Impactful Tech Solutions
+      subtitle: What we are looking for
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Advanced Sensing & Autonomy
+          description: ""
+        - title: AI & Data
+          description: ""
+        - title: Cybersecurity & Digital Intelligence
+          description: ""
+        - title: Other Emerging Tech Areas
+          description: ""
   - infobar:
       title: Have a dual-use technology?
       id: infobar
