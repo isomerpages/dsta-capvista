@@ -29,7 +29,8 @@ sections:
       subtitle: What we do
       id: infopic
       description: We validate technology and market demand with our network of
-        engineering & tech talent and partners.
+        engineering & tech talent and partners to solve real compelling
+        problems.
       button: Read More
       url: /success-stories
       alt: Image alt text
@@ -42,12 +43,6 @@ sections:
       button: Read More
       alt: Image alt text
       url: /success-stories
-  - infopic:
-      title: Meet the People who will be in the journey with you
-      id: infopic
-      button: Know More
-      url: /team
-      alt: Image alt text
   - infocols:
       title: Innovative, Game-changing Technologies
       subtitle: What are we looking for
@@ -65,6 +60,12 @@ sections:
             computational load etc
         - title: Other Emerging Technologies
           description: Quantum Technologies, Advanced communications, Advanced Materials etc
+  - infopic:
+      title: Meet the People who will be in the journey with you
+      id: infopic
+      button: Know More
+      url: /team
+      alt: Image alt text
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
