@@ -72,4 +72,20 @@ sections:
       description: Together we grow ideas to impactful innovations
       button: Send Your Pitch Deck to Us!
       url: /contact-us
+  - textcards:
+      title: "Hear what Our Founders say "
+      id: textcards
+      cards:
+        - title: Charles Wong, Co-founder, Bifrost
+          description: Card description
+          linktext: About Bifrost
+          url: ""
+        - title: Sahil, Co-founder, Atomionics
+          description: Card description
+          linktext: About Atomionics
+          url: ""
+        - title: Mark, Co-founder, Aliena
+          description: Card description
+          linktext: About Aliena
+          url: ""
 ---
