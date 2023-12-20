@@ -13,30 +13,18 @@ sections:
       background: /images/hero_image.jpeg
       key_highlights:
         - title: Who we Are
-          description: 30 chars only
+          description: Strategic Deep Tech Investor
           url: ""
         - title: What we Do
-          description: 30 chars only
+          description: Harness Dual-use Technologies
           url: ""
         - title: What we Offer
-          description: Again, 30 chars only
+          description: Opportunities for Startups
           url: ""
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
-  - infocols:
-      title: Cap Vista
-      id: infocols
-      infoboxes:
-        - title: Who we Are
-          description: We scouts for tech companies with potential dual-use applications
-            for defence.
-        - title: What we Do
-          description: We invest in and engage with early-stage tech companies.
-        - title: What we Offer
-          description: Here can have 120 chars. Alternative is to use the purple column
-            (highlights) above.
   - infopic:
       title: Artificial Intelligence
       subtitle: Tech Focus Area - Style 2
