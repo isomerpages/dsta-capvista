@@ -60,18 +60,6 @@ sections:
             computational load etc
         - title: Other Emerging Technologies
           description: Quantum Technologies, Advanced communications, Advanced Materials etc
-  - infopic:
-      title: Meet the People who will be in the journey with you
-      id: infopic
-      button: Know More
-      url: /team
-      alt: Image alt text
-  - infobar:
-      title: Have a Game-Changing Tech Solution?
-      id: infobar
-      description: Together we grow ideas to impactful innovations
-      button: Send Your Pitch Deck to Us!
-      url: /contact-us
   - textcards:
       title: Hear what Our Founders say
       id: textcards
@@ -88,4 +76,16 @@ sections:
           description: Card description
           linktext: About Aliena
           url: ""
+  - infopic:
+      title: Meet the People who will be in the journey with you
+      id: infopic
+      button: Know More
+      url: /team
+      alt: Image alt text
+  - infobar:
+      title: Have a Game-Changing Tech Solution?
+      id: infobar
+      description: Together we grow ideas to impactful innovations
+      button: Send Your Pitch Deck to Us!
+      url: /contact-us
 ---
