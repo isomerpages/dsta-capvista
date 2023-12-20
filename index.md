@@ -73,7 +73,7 @@ sections:
       button: Send Your Pitch Deck to Us!
       url: /contact-us
   - textcards:
-      title: "Hear what Our Founders say "
+      title: Hear what Our Founders say
       id: textcards
       cards:
         - title: Charles Wong, Co-founder, Bifrost
