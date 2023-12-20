@@ -76,6 +76,10 @@ sections:
           description: Card description
           linktext: About Aliena
           url: ""
+        - title: Grace, CEO, BeeX
+          description: Card description
+          linktext: About BeeX
+          url: ""
   - infopic:
       title: Meet the People who will be in the journey with you
       id: infopic
