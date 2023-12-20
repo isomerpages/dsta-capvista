@@ -29,8 +29,8 @@ sections:
       title: Strategic Investor
       subtitle: We are
       id: infopic
-      description: "We partner deep tech startups with innovative solutions to support
-        Singapore's national security. "
+      description: We partner deep tech startups with innovative solutions to support
+        Singapore's national security.
       button: Learn More
       url: /about-us
       alt: Image alt text
@@ -63,8 +63,31 @@ sections:
           description: ""
         - title: Other Emerging Tech Areas
           description: ""
+  - infopic:
+      title: Meet the People who will be in the journey with you
+      id: infopic
+      button: Know More
+      url: /team
+      alt: Image alt text
+  - infocols:
+      title: Innovative, Game-changing Technologies
+      subtitle: "What are we looking for "
+      id: infocols
+      linktext: See Our Portfolio Companies
+      url: /portfolio
+      infoboxes:
+        - title: AI & Data
+          description: Machine learning, Robustness in AI, Explainable AI, Multi-modal
+            data analysis etc
+        - title: Cybersecurity & Digital Intelligence
+          description: Cloud Security, Threat Intelligence, IOT security, Securing AI etc
+        - title: Advanced Sensing & Autonomy
+          description: Bio-sensor, advanced imaging sensors, autonomy software with low
+            computational load etc
+        - title: Other Emerging Technologies
+          description: Quantum Technologies, Advanced communications, Advanced Materials etc
   - infobar:
-      title: Have a dual-use technology?
+      title: Have a Game-Changing Tech Solution?
       id: infobar
       description: Together we grow ideas to impactful innovations
       button: Send Your Pitch Deck to Us!
