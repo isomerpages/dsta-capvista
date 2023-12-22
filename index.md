@@ -85,8 +85,9 @@ sections:
       title: Meet the People who will be in the journey with you
       id: infopic
       button: Know More
-      url: /team
+      url: /people
       alt: Image alt text
+      image: /images/Red_minimalist_Merry_Christmas_Instagram_post___2_.png
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
