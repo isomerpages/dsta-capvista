@@ -42,7 +42,7 @@ sections:
         their technologies and market.
       button: Read More
       alt: Image alt text
-      url: /success-stories
+      url: /stories
   - infocols:
       title: Innovative, Game-changing Technologies
       subtitle: What are we looking for
@@ -65,21 +65,22 @@ sections:
       id: textcards
       cards:
         - title: Charles Wong, Co-founder, Bifrost
-          description: Card description
+          description: '"We received valuable guidance & support to grow in global defence
+            market"'
           linktext: About Bifrost
-          url: ""
+          url: https://www.bifrost.ai/
         - title: Sahil, Co-founder, Atomionics
           description: Card description
           linktext: About Atomionics
-          url: ""
+          url: https://www.atomionics.com/
         - title: Mark, Co-founder, Aliena
           description: Card description
           linktext: About Aliena
-          url: ""
+          url: https://www.aliena.sg/
         - title: Grace, CEO, BeeX
           description: Card description
           linktext: About BeeX
-          url: ""
+          url: https://beex.sg/
   - infopic:
       title: Meet the People who will be in the journey with you
       id: infopic
