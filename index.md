@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Cap Vista
-      subtitle: Investing & Harnessing Dual-use Technologies for Singapore's National
+      subtitle: To Invest & Harness Dual-use Technologies for Singapore's National
         Security
       background: /images/hero_image.jpeg
       variant: center
