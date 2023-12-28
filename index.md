@@ -44,7 +44,7 @@ sections:
         their technologies and market.
       button: Read More
       alt: Image alt text
-      url: /stories
+      url: /Stories
       image: /images/edited_opp.jpeg
   - infocols:
       title: Innovative, Game-changing Technologies
