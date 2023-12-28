@@ -10,3 +10,5 @@ links:
     url: /our-portfolio
   - title: Contact Us
     url: /contact-us/
+  - title: Test Folder Style Our People
+    collection: our-people
