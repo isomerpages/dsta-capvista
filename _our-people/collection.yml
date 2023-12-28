@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our People.md
+      - Executive Team/Benjamin Tham.md
       - Executive Team/Yi Shu.md
       - Executive Team/.keep
       - Executive Team/Eunice Ooi.md
