@@ -90,7 +90,7 @@ sections:
       button: Know More
       url: /people
       alt: Image alt text
-      image: /images/Red_minimalist_Merry_Christmas_Instagram_post___2_.png
+      image: /images/staff.png
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
