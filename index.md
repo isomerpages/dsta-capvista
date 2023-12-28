@@ -35,7 +35,7 @@ sections:
       button: See Our Innovation Call
       url: /accelerator
       alt: Image alt text
-      image: /images/AdobeStock_289115935_Preview.jpeg
+      image: /images/AdobeStock_456456890_Preview_Editorial_Use_Only.jpeg
   - infopic:
       title: Opportunities to Propel Startup Growth
       subtitle: what we offer
@@ -90,7 +90,7 @@ sections:
       button: Know More
       url: /people
       alt: Image alt text
-      image: /images/staff__1_.png
+      image: /images/Untitled_design.png
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
