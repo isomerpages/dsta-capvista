@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our People.md
+      - Executive Team/Example Title.md
       - Executive Team/.keep
       - Executive Team/Eunice Ooi.md
       - Executive Team/Joseph Ho.md
