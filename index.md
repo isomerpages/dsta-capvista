@@ -35,6 +35,7 @@ sections:
       button: See Our Innovation Call
       url: /accelerator
       alt: Image alt text
+      image: /images/AdobeStock_289115935_Preview.jpeg
   - infopic:
       title: Opportunities to Propel Startup Growth
       subtitle: what we offer
