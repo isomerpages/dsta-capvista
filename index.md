@@ -90,7 +90,7 @@ sections:
       button: Know More
       url: /people
       alt: Image alt text
-      image: /images/staff.png
+      image: /images/staff__1_.png
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
