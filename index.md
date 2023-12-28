@@ -45,6 +45,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: /stories
+      image: /images/AdobeStock_169909352_Preview.jpeg
   - infocols:
       title: Innovative, Game-changing Technologies
       subtitle: What are we looking for
