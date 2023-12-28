@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Bio/Eunice Ooi.md
       - Bio/.keep
