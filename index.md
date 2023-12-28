@@ -24,7 +24,7 @@ sections:
       button: Learn More
       url: /about-us
       alt: Image alt text
-      image: /images/AdobeStock_284317112_Preview_Editorial_Use_Only.jpeg
+      image: /images/AdobeStock_575805866_Preview_Editorial_Use_Only.jpeg
   - infopic:
       title: Deliver Impactful Outcomes
       subtitle: What we do
