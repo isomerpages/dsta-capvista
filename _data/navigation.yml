@@ -5,10 +5,10 @@ links:
   - title: Stories
     url: /stories
   - title: Our People
-    url: /our-people
+    collection: our-people
   - title: Our Portfolio
     url: /our-portfolio
   - title: Contact Us
     url: /contact-us/
-  - title: Test Folder Style Our People
-    collection: our-people
+  - title: Old People
+    url: /our-people
