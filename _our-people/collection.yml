@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our People.md
+      - Board of Directors/Tan Peng Yam.md
       - Board of Directors/.keep
       - Board of Directors/Board of Directors.md
       - Executive Team/.keep
