@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Cap Vista
-description: An Isomer site of the Singapore Government
+description: Harnessing Dual-use Technology for Singapore's National Security
 image: /images/cap_vista_logo.png
 permalink: /
 notification: ""
