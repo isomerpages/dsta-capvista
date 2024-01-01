@@ -90,7 +90,7 @@ sections:
       title: Meet the People who will be in the journey with you
       id: infopic
       button: Know More
-      url: /people
+      url: /our-people
       alt: Image alt text
       image: /images/Untitled_design.png
   - infobar:
