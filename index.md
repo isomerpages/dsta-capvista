@@ -33,7 +33,7 @@ sections:
         engineering & tech talent and partners, to solve real compelling
         problems.
       button: See Our Innovation Call
-      url: https://www.accelerator.capvista.com.sg
+      url: https://accelerator.capvista.com.sg
       alt: Image alt text
       image: /images/AdobeStock_456456890_Preview_Editorial_Use_Only.jpeg
   - infopic:
