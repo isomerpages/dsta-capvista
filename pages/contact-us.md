@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Cap Vista
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 3 Fusionopolis Place
+      - "#02-53 Galaxis Work Loft"
+      - Singapore 138523
+    operating_hours: []
+    maps_link: ""
+    title: Cap Vista Pte Ltd
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: team@capvista.com.sg
+      - other: ""
+    title: Send Your Pitch Deck
+  - content:
+      - phone: ""
+      - email: contactus@capvista.com.sg
+      - other: ""
+    title: For all other enquiries
+feedback: ""
 ---

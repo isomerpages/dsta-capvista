@@ -1,32 +1,108 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Cap Vista
+description: Harnessing Dual-use Technology for Singapore's National Security
+image: /images/cap_vista_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Cap Vista
+      subtitle: To Invest & Harness Dual-use Technologies for Singapore's National
+        Security
+      background: /images/hero_image.jpeg
+      variant: center
+      size: md
+      alignment: left
+      backgroundColor: gray
+  - infopic:
+      title: Strategic Investor
+      subtitle: We are
+      id: infopic
+      description: We partner deep tech startups with innovative solutions to support
+        Singapore's national security.
+      button: Learn More
+      url: /about-us
+      alt: Image alt text
+      image: /images/AdobeStock_575805866_Preview_Editorial_Use_Only.jpeg
+  - infopic:
+      title: Deliver Impactful Outcomes
+      subtitle: What we do
+      id: infopic
+      description: We validate technology and market demand with our network of
+        engineering & tech talent and partners, to solve real compelling
+        problems.
+      button: See Our Innovation Call
+      url: https://accelerator.capvista.com.sg
+      alt: Image alt text
+      image: /images/AdobeStock_456456890_Preview_Editorial_Use_Only.jpeg
+  - infopic:
+      title: Opportunities to Propel Startup Growth
+      subtitle: what we offer
+      id: infopic
+      description: Beyond equity funding, we curate opportunities for startups to grow
+        their technologies and market.
+      button: Read More
+      alt: Image alt text
+      url: /stories/
+      image: /images/edited_opp.jpeg
+  - infocols:
+      title: Innovative, Game-changing Technologies
+      subtitle: What are we looking for
+      id: infocols
+      linktext: See Our Portfolio Companies
+      url: /our-portfolio/
+      infoboxes:
+        - title: AI & Data
+          description: Machine learning, Robustness in AI, Explainable AI, Multi-modal
+            data analysis etc
+        - title: Cybersecurity & Digital Intelligence
+          description: Cloud Security, Threat Intelligence, IOT security, Securing AI etc
+        - title: Advanced Sensing & Autonomy
+          description: Bio-sensor, advanced imaging sensors, autonomy software with low
+            computational load etc
+        - title: Other Emerging Technologies
+          description: Quantum Technologies, Advanced communications, Advanced Materials etc
+  - textcards:
+      title: Hear what Our Founders say
+      id: textcards
+      cards:
+        - title: Charles Wong, Co-founder, Bifrost
+          description: '"We received valuable guidance & support to grow in global defence
+            market."'
+          linktext: About Bifrost
+          url: https://www.bifrost.ai/
+        - title: Sahil, Co-founder, Atomionics
+          description: '"CV understands & supports the big, long-term potential of our
+            unique tech."'
+          linktext: About Atomionics
+          url: https://www.atomionics.com/
+        - title: Mark, Co-founder, Aliena
+          description: '"CV helps us sharpen our strategies in growing our space tech
+            startup"'
+          linktext: About Aliena
+          url: https://www.aliena.sg/
+        - title: Grace, CEO, BeeX
+          description: '"A great investor & partner for early-stage startup"'
+          linktext: About BeeX
+          url: https://beex.sg/
+  - infopic:
+      title: Meet the People who will be in the journey with you
+      id: infopic
+      button: Know More
+      url: /our-people
+      alt: Image alt text
+      image: /images/Untitled_design.png
+  - infobar:
+      title: Have a Game-Changing Tech Solution?
+      id: infobar
+      description: Together we grow ideas to impactful innovations
+      button: Send Your Pitch Deck to Us!
+      url: /contact-us
+  - infobar:
+      title: Stay Tuned!
+      id: infobar
+      description: Get the latest updates of our Open Innovation Call and other news
+      button: Subscribe
+      url: https://mailchi.mp/4c0f2574ce81/subscribe-to-capvista
 ---
-
