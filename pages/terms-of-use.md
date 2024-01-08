@@ -1,13 +1,24 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+**Cap Vista Terms of Service**
 
-#### **General Legal Information**
+General Legal Information By accessing and using the information which are owned and operated by Cap Vista Pte Ltd ("Cap Vista"), you are agreeing to comply with and be bound by the following terms of use, which may be updated and amended from time to time. 
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+**Disclaimer **
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+The Cap Vista Website (and its Contents) is frequently updated and checked for inaccuracies, errors and inconsistencies. However, Cap Vista does not warrant the accuracy, adequacy, timeliness or completeness of the Contents. Nor does Cap Vista warrant that the Contents, or the facilities that make it available, will not cause damage, or are free from any computer virus, harmful or invasive elements, or any other defects or errors, or that your access to this Website will be uninterrupted. Cap Vista shall not be liable for any loss or damage arising from the use of the Contents, and expressly disclaims liability for the above-mentioned omissions in the Contents. 
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**Copyright **
+
+All copyrights (including intellectual property rights) subsisting in the contents of this Website belong to or are licensed to Cap Vista and/or the respective third-party proprietors identified in this website. These contents are protected by laws governing copyright, trademark or other forms of proprietary rights. Therefore, no part hereof may be reproduced, broadcast or transmitted in any manner, stored in an information retrieval system or used in any way without the written permission of Cap Vista. The use of the contents in this Website (Cap Vista's logo, information, graphics, etc.) without written consent is a violation of Cap Vista’s copyrights and Cap Vista reserves all its rights to seek all remedies available by law. 
+
+**Hyperlinks **
+
+For your convenience, we have included hyperlinks to websites that are owned or operated by third parties. Cap Vista does not accept responsibility for the contents of or the consequences of accessing these websites. Nevertheless, it is advised that users of these websites should adhere to any agreements and conditions on the use of these websites. 
+
+**Governing Law and Jurisdiction **
+
+By accessing this Website, you agree that the statues and laws of the Republic of Singapore will apply to all matters relating to the use of this Website. You also agree and hereby submit to the jurisdiction and venue of the Courts of the Republic of Singapore with respect to all such matters.
