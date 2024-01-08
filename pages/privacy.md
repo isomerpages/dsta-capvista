@@ -25,4 +25,10 @@ Cookies are small data files that your browser places on your computer or device
 
 **Contact Us **
 
-You could contact us via contactus@capvista.sg for the following: a) Questions or feedback relating to the use and/or disclosure of your Personal Data; b) Enquiries about our Privacy Policy; c) Request access or make corrections to your Personal Data records which you have earlier provided to us; and d) Withdraw your consent to any use and/or disclosure of your Personal Data which you have earlier provided to us. Note: Please note that if you withdraw your consent to any or all uses or disclosures of your Personal Data, depending on the nature of your request, we may not be in a position to continue to engage with you.
+You could contact us via contactus@capvista.sg for the following: 
+a) Questions or feedback relating to the use and/or disclosure of your Personal Data; 
+b) Enquiries about our Privacy Policy; 
+c) Request access or make corrections to your Personal Data records which you have earlier provided to us; and 
+d) Withdraw your consent to any use and/or disclosure of your Personal Data which you have earlier provided to us. 
+
+Note: Please note that if you withdraw your consent to any or all uses or disclosures of your Personal Data, depending on the nature of your request, we may not be in a position to continue to engage with you.
