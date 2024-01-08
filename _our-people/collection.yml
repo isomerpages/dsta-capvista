@@ -2,7 +2,7 @@ collections:
   our-people:
     output: true
     order:
-      - Our People.md
+      - Our Team.md
       - Board of Directors/.keep
       - Board of Directors/Tan Peng Yam.md
       - Board of Directors/Ng Chad Son.md
