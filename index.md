@@ -99,4 +99,10 @@ sections:
       description: Together we grow ideas to impactful innovations
       button: Send Your Pitch Deck to Us!
       url: /contact-us
+  - infobar:
+      title: Stay Tuned!
+      id: infobar
+      description: Get latest updates of our Open Innovation Call and other news
+      button: Subscribe
+      url: https://us21.list-manage.com/contact-form?u=ef85821b0d3bab316a540b812&form_id=4a291a4fb7011b85380195c069300704
 ---
