@@ -102,7 +102,7 @@ sections:
   - infobar:
       title: Stay Tuned!
       id: infobar
-      description: Get latest updates of our Open Innovation Call and other news
+      description: Get the latest updates of our Open Innovation Call and other news
       button: Subscribe
-      url: https://us21.list-manage.com/contact-form?u=ef85821b0d3bab316a540b812&form_id=4a291a4fb7011b85380195c069300704
+      url: https://mailchi.mp/4c0f2574ce81/subscribe-to-capvista
 ---
