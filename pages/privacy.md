@@ -17,7 +17,11 @@ Cap Vista may collect your Personal Data submitted to us for the purpose specifi
 
 **Information Security **
 
-We will protect the Personal Data that we hold from misuse and unauthorised disclosure. We will only use and/or disclose your Personal Data (including disclosure to our partner organisations) for the purposes which you have consented us to collect, use and/or disclose your Personal Data for. We will retain your Personal Data for as long as needed to serve the purposes for which the data is collected, and where permitted by law, we will destroy or make unidentifiable Personal Data that is no longer needed. Use of Cookies Cookies are small data files that your browser places on your computer or device. Cookies help your browser navigate a website and the cookies themselves cannot collect any information stored on your computer or files. We use cookies to learn more about the way you interact with our Website content and help us improve your experience when visiting our Website. Should you wish to disable the cookies, you may do so by changing the setting on your browser. However, you may not be able to enter certain parts of our Website. 
+We will protect the Personal Data that we hold from misuse and unauthorised disclosure. We will only use and/or disclose your Personal Data (including disclosure to our partner organisations) for the purposes which you have consented us to collect, use and/or disclose your Personal Data for. We will retain your Personal Data for as long as needed to serve the purposes for which the data is collected, and where permitted by law, we will destroy or make unidentifiable Personal Data that is no longer needed. 
+
+**Use of Cookies **
+
+Cookies are small data files that your browser places on your computer or device. Cookies help your browser navigate a website and the cookies themselves cannot collect any information stored on your computer or files. We use cookies to learn more about the way you interact with our Website content and help us improve your experience when visiting our Website. Should you wish to disable the cookies, you may do so by changing the setting on your browser. However, you may not be able to enter certain parts of our Website. 
 
 **Contact Us **
 
