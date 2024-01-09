@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - "Tech Highlights: Drone solution for GPS denied environment.md"
-      - "Tech Highlights: 2D & 3D synthetic data for AI and ML training.md"
+      - "Tech Highlights: Generating 2D & 3D synthetic data for AI & ML
+        training.md"
