@@ -2,5 +2,5 @@ collections:
   stories:
     output: true
     order:
-      - Performance Rotors.md
+      - "Tech Highlights: Drone solution for GPS denied environment.md"
       - Bifrost.md
