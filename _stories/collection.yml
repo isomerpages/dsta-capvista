@@ -2,5 +2,6 @@ collections:
   stories:
     output: true
     order:
+      - performance rotors.md
       - Bifrost.md
       - Stories.md
