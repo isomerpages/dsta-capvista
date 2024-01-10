@@ -68,8 +68,8 @@ sections:
       id: textcards
       cards:
         - title: Charles Wong, Co-founder, Bifrost
-          description: '"We received valuable guidance & support to grow in global defence
-            market."'
+          description: '"Guided our understanding towards defence operational
+            requirements."'
           linktext: About Bifrost
           url: https://www.bifrost.ai/
         - title: Sahil, Co-founder, Atomionics
@@ -78,8 +78,8 @@ sections:
           linktext: About Atomionics
           url: https://www.atomionics.com/
         - title: Mark, Co-founder, Aliena
-          description: '"CV helps us sharpen our strategies in growing our space tech
-            startup"'
+          description: '"CV acts us a credible sounding board in sharpening our growth
+            strategies"'
           linktext: About Aliena
           url: https://www.aliena.sg/
         - title: Grace, CEO, BeeX
