@@ -78,7 +78,7 @@ sections:
           linktext: About Atomionics
           url: https://www.atomionics.com/
         - title: Mark, Co-founder, Aliena
-          description: '"CV acts us a credible sounding board in sharpening our growth
+          description: '"CV acts as a credible sounding board in sharpening our growth
             strategies"'
           linktext: About Aliena
           url: https://www.aliena.sg/
