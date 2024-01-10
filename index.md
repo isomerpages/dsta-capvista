@@ -73,8 +73,8 @@ sections:
           linktext: About Bifrost
           url: https://www.bifrost.ai/
         - title: Sahil, Co-founder, Atomionics
-          description: '"CV understands & supports the big, long-term potential of our
-            unique tech."'
+          description: '"CV appreciates & supports our long term vision for quantum
+            sensing."'
           linktext: About Atomionics
           url: https://www.atomionics.com/
         - title: Mark, Co-founder, Aliena
