@@ -83,8 +83,8 @@ sections:
           linktext: About Aliena
           url: https://www.aliena.sg/
         - title: Grace, CEO, BeeX
-          description: '"...provides valuable inputs on how our solutions can address
-            defence needs.."'
+          description: '"Provides valuable inputs on how our solutions can address defence
+            needs."'
           linktext: About BeeX
           url: https://beex.sg/
   - infopic:
