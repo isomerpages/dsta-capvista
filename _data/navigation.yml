@@ -3,7 +3,7 @@ links:
   - title: Cap Vista Accelerator
     url: /accelerator
   - title: Stories
-    url: /stories
+    collection: stories
   - title: About us
     url: /about-us
   - title: Our People
