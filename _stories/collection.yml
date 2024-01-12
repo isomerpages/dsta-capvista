@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories.md
       - "Tech Highlights: Drone solution for GPS denied environment.md"
       - "Tech Highlights: Generating 2D & 3D synthetic data for AI & ML
         training.md"
