@@ -24,7 +24,7 @@ sections:
       button: Learn More
       url: /about-us
       alt: Image alt text
-      image: /images/AdobeStock_575805866_Preview_Editorial_Use_Only.jpeg
+      image: /images/Homepage/AdobeStock_141013961_cropped.jpg
   - infopic:
       title: Deliver Impactful Outcomes
       subtitle: What we do
@@ -35,7 +35,7 @@ sections:
       button: See Our Innovation Call
       url: https://accelerator.capvista.com.sg
       alt: Image alt text
-      image: /images/AdobeStock_456456890_Preview_Editorial_Use_Only.jpeg
+      image: /images/Homepage/AdobeStock_585291530_smaller.jpg
   - infopic:
       title: Opportunities to Propel Startup Growth
       subtitle: what we offer
@@ -45,7 +45,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: /stories
-      image: /images/edited_opp.jpeg
+      image: /images/Homepage/_noneditorial_curve_smaller.jpg
   - infocols:
       title: Innovative, Game-changing Technologies
       subtitle: What are we looking for
@@ -59,10 +59,10 @@ sections:
         - title: Cybersecurity & Digital Intelligence
           description: Cloud Security, Threat Intelligence, IOT security, Securing AI etc
         - title: Advanced Sensing & Autonomy
-          description: Bio-sensor, advanced imaging sensors, autonomy software with low
-            computational load etc
+          description: Advanced Imaging Sensors, Bio-sensors, enhance Human-Machine
+            teaming etc
         - title: Other Emerging Technologies
-          description: Quantum Technologies, Advanced communications, Advanced Materials etc
+          description: Quantum Technologies, Advanced Communications, Novel Materials etc
   - textcards:
       title: Hear what Our Founders say
       id: textcards
