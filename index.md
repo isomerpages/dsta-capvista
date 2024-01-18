@@ -45,7 +45,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: /stories
-      image: /images/Homepage/_noneditorial_curve_smaller.jpg
+      image: /images/Homepage/noneditorial_smaller.jpg
   - infocols:
       title: Innovative, Game-changing Technologies
       subtitle: What are we looking for
