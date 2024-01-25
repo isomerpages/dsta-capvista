@@ -32,8 +32,6 @@ sections:
       description: We validate technology and market demand with our network of
         engineering & tech talent and partners, to solve real compelling
         problems.
-      button: See Our Innovation Call
-      url: https://accelerator.capvista.com.sg
       alt: Image alt text
       image: /images/Homepage/AdobeStock_585291530_smaller.jpg
   - infopic:
