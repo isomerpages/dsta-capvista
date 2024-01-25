@@ -24,7 +24,7 @@ sections:
       button: Learn More
       url: /about-us
       alt: Image alt text
-      image: /images/AdobeStock_575805866_Preview_Editorial_Use_Only.jpeg
+      image: /images/Homepage/AdobeStock_141013961_cropped.jpg
   - infopic:
       title: Deliver Impactful Outcomes
       subtitle: What we do
@@ -35,7 +35,7 @@ sections:
       button: See Our Innovation Call
       url: https://accelerator.capvista.com.sg
       alt: Image alt text
-      image: /images/AdobeStock_456456890_Preview_Editorial_Use_Only.jpeg
+      image: /images/Homepage/AdobeStock_585291530_smaller.jpg
   - infopic:
       title: Opportunities to Propel Startup Growth
       subtitle: what we offer
@@ -44,8 +44,8 @@ sections:
         their technologies and market.
       button: Read More
       alt: Image alt text
-      url: /stories/
-      image: /images/edited_opp.jpeg
+      url: /stories
+      image: /images/Homepage/noneditorial_smaller.jpg
   - infocols:
       title: Innovative, Game-changing Technologies
       subtitle: What are we looking for
@@ -59,31 +59,32 @@ sections:
         - title: Cybersecurity & Digital Intelligence
           description: Cloud Security, Threat Intelligence, IOT security, Securing AI etc
         - title: Advanced Sensing & Autonomy
-          description: Bio-sensor, advanced imaging sensors, autonomy software with low
-            computational load etc
+          description: Advanced Imaging Sensors, Bio-sensors, enhance Human-Machine
+            teaming etc
         - title: Other Emerging Technologies
-          description: Quantum Technologies, Advanced communications, Advanced Materials etc
+          description: Quantum Technologies, Advanced Communications, Novel Materials etc
   - textcards:
       title: Hear what Our Founders say
       id: textcards
       cards:
         - title: Charles Wong, Co-founder, Bifrost
-          description: '"We received valuable guidance & support to grow in global defence
-            market."'
+          description: '"Guided our understanding towards defence operational
+            requirements."'
           linktext: About Bifrost
           url: https://www.bifrost.ai/
         - title: Sahil, Co-founder, Atomionics
-          description: '"CV understands & supports the big, long-term potential of our
-            unique tech."'
+          description: '"CV appreciates & supports our long term vision for quantum
+            sensing."'
           linktext: About Atomionics
           url: https://www.atomionics.com/
         - title: Mark, Co-founder, Aliena
-          description: '"CV helps us sharpen our strategies in growing our space tech
-            startup"'
+          description: '"CV acts as a credible sounding board in sharpening our growth
+            strategies"'
           linktext: About Aliena
           url: https://www.aliena.sg/
         - title: Grace, CEO, BeeX
-          description: '"A great investor & partner for early-stage startup"'
+          description: '"Provides valuable inputs on how our solutions can address defence
+            needs."'
           linktext: About BeeX
           url: https://beex.sg/
   - infopic:

@@ -1,12 +1,14 @@
 logo: /images/cap_vista_logo.png
 links:
   - title: Cap Vista Accelerator
-    url: /accelerator
-  - title: Stories
-    url: /stories
+    url: https://accelerator.capvista.com.sg/
+  - title: About us
+    url: /about-us
   - title: Our People
     collection: our-people
   - title: Our Portfolio
     url: /our-portfolio
+  - title: Stories
+    collection: stories
   - title: Contact Us
     url: /contact-us/
