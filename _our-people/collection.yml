@@ -1,0 +1,20 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - Our Team.md
+      - Board of Directors/.keep
+      - Board of Directors/Tan Peng Yam.md
+      - Board of Directors/Ng Chad Son.md
+      - Board of Directors/Cheong Chee Hoo.md
+      - Board of Directors/Loke Mun Kwong.md
+      - Board of Directors/Chua Sock Koong.md
+      - Board of Directors/Christopher Yeo.md
+      - Board of Directors/Jonathan Ng.md
+      - Executive Team/.keep
+      - Executive Team/Eunice Ooi.md
+      - Executive Team/Joseph Ho.md
+      - Executive Team/Lynne Loh.md
+      - Executive Team/Chen Juncheng.md
+      - Executive Team/Elaine Teoh.md
+      - Executive Team/Benjamin Tham.md
