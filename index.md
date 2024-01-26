@@ -34,6 +34,8 @@ sections:
         problems.
       alt: Image alt text
       image: /images/Homepage/AdobeStock_585291530_smaller.jpg
+      url: https://www.accelerator.capvista.com.sg
+      button: see cap vista accelerator
   - infopic:
       title: Opportunities to Propel Startup Growth
       subtitle: what we offer
