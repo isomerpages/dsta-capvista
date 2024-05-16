@@ -8,42 +8,30 @@ description: ""
 <h2>Board of Directors</h2>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/tan-peng-yam" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tan Peng Yam" src="/images/TPY.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr TAN Peng Yam</div><div class="isomer-card-description">MINDEF</div><div class="isomer-card-link">Chief Defence Scientist</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/ng-chad-son" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/cheong-chee-hoo" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ng Chad-son" src="/images/Chadson.png">
+<img style="width: 100%" height="auto" width="100%" alt="Cheong Chee Hoo" src="/images/Chee_Hoo.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr NG Chad-son</div>
-<div class="isomer-card-description">MINDEF</div>
-<div class="isomer-card-link">Deputy Secretary (Technology) and Future Systems and Technology Architect</div>
+<div class="isomer-card-title">Mr CHEONG Chee Hoo</div>
+<div class="isomer-card-description">DSO</div>
+<div class="isomer-card-link">Chief Executive Officer</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/cheong-chee-hoo" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cheong Chee Hoo" src="/images/Chee_Hoo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr CHEONG Chee Hoo</div><div class="isomer-card-description">DSO</div><div class="isomer-card-link">Chief Executive Officer</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/loke-mun-kwong" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/loke-mun-kwong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Loke Mun Kwong" src="/images/MK.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr LOKE Mun Kwong</div><div class="isomer-card-description">DSTA</div><div class="isomer-card-link">Deputy Chief Executive (National Engineering)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/christopher-yeo" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Loke Mun Kwong" src="/images/MK.png">
+<img style="width: 100%" height="auto" width="100%" alt="Christopher Yeo" src="/images/CHris_amended2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr LOKE Mun Kwong</div>
-<div class="isomer-card-description">DSTA</div>
-<div class="isomer-card-link">Deputy Chief Executive (National Engineering)</div>
+<div class="isomer-card-title">Mr Christopher YEO</div>
+<div class="isomer-card-description">Sentient.io</div>
+<div class="isomer-card-link">CEO</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/christopher-yeo" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Christopher Yeo" src="/images/CHris_amended2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Christopher YEO</div><div class="isomer-card-description">Sentient.io</div><div class="isomer-card-link">CEO</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/Jonathan__1_.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Jonathan NG</div>
-<div class="isomer-card-description">Tower Capital Asia</div>
-<div class="isomer-card-link">Managing Director, Value Creation and Digital</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/Jonathan__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Jonathan NG</div><div class="isomer-card-description">Tower Capital Asia</div><div class="isomer-card-link">Managing Director, Value Creation and Digital</div></div></a>
 </div>
 <hr>
 <p></p>
