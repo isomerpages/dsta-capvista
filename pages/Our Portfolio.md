@@ -32,7 +32,7 @@ on the quantum mechanical properties of the atoms for navigation and exploration
 by providing the tools and APIs to generate synthetic images at scale.</div>
 <div class="isomer-card-link">https://www.bifrost.ai/</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://insidersecurity.co/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="InsiderSecurity" src="/images/insiderlogo3.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">InsiderSecurity</div><div class="isomer-card-description">InsiderSecurity develops solutions that simplify cybersecurity, lower manpower costs and minimize the impact of the inevitable cyber breach.</div><div class="isomer-card-link">https://insidersecurity.co/</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://insidersecurity.co/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="InsiderSecurity" src="/images/insiderlogo4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">InsiderSecurity</div><div class="isomer-card-description">InsiderSecurity develops solutions that simplify cybersecurity, lower manpower costs and minimize the impact of the inevitable cyber breach.</div><div class="isomer-card-link">https://insidersecurity.co/</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.seventhsense.ai/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
