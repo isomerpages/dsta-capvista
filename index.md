@@ -93,7 +93,7 @@ sections:
       button: Know More
       url: /our-people
       alt: Image alt text
-      image: /images/Untitled_design.png
+      image: /images/CVPL_Website__1_.png
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
