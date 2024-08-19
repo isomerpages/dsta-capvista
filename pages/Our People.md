@@ -32,7 +32,7 @@ description: ""
 <div class="isomer-card-link">CEO</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/BOD/bod_Jonathan_Ng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Jonathan NG</div><div class="isomer-card-description">Tower Capital Asia</div><div class="isomer-card-link">Managing Director, Value Creation and Digital</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/Yew_chee_Leung" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BG Yew Chee Leung" src="/images/CVPL_Website_BOD_Team_Photo.png">
@@ -41,8 +41,9 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">BG Yew Chee Leung</div>
 <div class="isomer-card-description">MINDEF</div>
+<div class="isomer-card-link">Deputy Secretary (Technology)</div>
 </div>
-</div>
+</a>
 </div>
 <hr>
 <p></p>
