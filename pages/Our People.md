@@ -32,6 +32,18 @@ description: ""
 <div class="isomer-card-link">CEO</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/BOD/bod_Jonathan_Ng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Jonathan NG</div><div class="isomer-card-description">Tower Capital Asia</div><div class="isomer-card-link">Managing Director, Value Creation and Digital</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/Yew_chee_Leung" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BG Yew Chee Leung" src="/images/CVPL_Website_BOD_Team_Photo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">BG Yew Chee Leung</div>
+<div class="isomer-card-description">MINDEF</div>
+<div class="isomer-card-link">Deputy Secretary (Technology)</div>
+</div>
+</a>
 </div>
 <hr>
 <p></p>
@@ -58,17 +70,6 @@ description: ""
 <div class="isomer-card-title">Mr CHEN Juncheng</div>
 <div class="isomer-card-link">Head of Investment (Robotics)</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-people/executive-team/elaine-teoh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elaine Teoh" src="/images/Executive Team/Elaine_Teoh.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Elaine TEOH</div><div class="isomer-card-link">Head of Strategic Partnership</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/executive-team/benjamin-tham/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Benjamin Tham" src="/images/Executive Team/Benjamin_Tham.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Benjamin THAM</div>
-<div class="isomer-card-link">Head of Strategic Partnership</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/our-people/executive-team/benjamin-tham/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Benjamin Tham" src="/images/Executive Team/Benjamin_Tham.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Benjamin THAM</div><div class="isomer-card-link">Head of Strategic Partnership</div></div></a>
 </div>
 <p></p>
