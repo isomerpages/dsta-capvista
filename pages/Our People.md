@@ -60,16 +60,16 @@ description: ""
 <div class="isomer-card-link">Senior Head of Investment</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-people/executive-team/lynne-loh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lynne Loh" src="/images/Executive Team/Lynne_LOH.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Lynne LOH</div><div class="isomer-card-link">Senior Head of Strategic Partnership</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/executive-team/chen-juncheng/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/our-people/executive-team/benjamin-tham/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chen Juncheng" src="/images/Executive Team/Chen_Juncheng.png">
+<img style="width: 100%" height="auto" width="100%" alt="Benjamin Tham" src="/images/Executive Team/Benjamin_Tham.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr CHEN Juncheng</div>
-<div class="isomer-card-link">Head of Investment (Robotics)</div>
+<div class="isomer-card-title">Mr Benjamin THAM</div>
+<div class="isomer-card-link">Head of Strategic Partnership</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-people/executive-team/benjamin-tham/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Benjamin Tham" src="/images/Executive Team/Benjamin_Tham.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Benjamin THAM</div><div class="isomer-card-link">Head of Strategic Partnership</div></div></a>
+</a>
 </div>
 <p></p>
