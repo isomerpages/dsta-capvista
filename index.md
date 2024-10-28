@@ -101,7 +101,7 @@ sections:
       button: Send Your Pitch Deck to Us!
       url: /contact-us
   - infobar:
-      title: Stay Tuned!
+      title: Join Cap Vista Network
       id: infobar
       description: Get the latest updates of our Open Innovation Call and other news
       button: Subscribe
