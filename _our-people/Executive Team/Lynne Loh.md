@@ -15,7 +15,7 @@ third_nav_title: Executive Team
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/8.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/8.png">
 </div>
 </th>
 </tr>
