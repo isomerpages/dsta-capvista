@@ -35,10 +35,17 @@ for Mars spacecraft landings and maritime piracy interception, showcasing
 its versatile applications.&nbsp;</p>
 <p><em>Generating Diverse 3D World Scenarios for the Maritime Industry</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Adapt AI to new scenarios for maritime" src="/images/Bifrost_Adapt_AI_to_New_Scenarios_Rapidly.png">
+</div>
 <h4><strong>Expanding into the defence and national security market globally</strong></h4>
 <p>Supported and facilitated by Cap Vista, Bifrost’s collaboration with global
 government partners is pushing the boundaries of AI innovation. By providing
 novel, disruptive solutions, Bifrost addresses critical national security
 challenges and continues to set new standards in Generative 3D technology.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bifrost Generative Data Engine" src="/images/Bifrost_Generative_Data_Engines_2.png">
+</div>
 <p><em>Bifrost's Generative AI for Defence and Security</em>
 </p>

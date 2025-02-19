@@ -1,13 +1,13 @@
 ---
 title: Yew Chee Leung
-permalink: /yew-chee-leung/
+permalink: /our-people/board-of-directors/yew-chee-leung/
 variant: tiptap
 description: ""
 third_nav_title: Board of Directors
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CVPL_Website_BOD_Team_Photo.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CVPL_Website_BOD_Team_Photo.png">
 </div>
 <h3><strong>BG Yew Chee Leung</strong></h3>
 <blockquote>
