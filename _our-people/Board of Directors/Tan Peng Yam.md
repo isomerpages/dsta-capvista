@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Board of Directors
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TPY.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/TPY.png">
 </div>
 <h3><strong>Mr TAN Peng Yam</strong></h3>
 <blockquote>
