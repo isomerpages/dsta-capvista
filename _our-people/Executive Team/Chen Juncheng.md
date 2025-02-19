@@ -40,11 +40,9 @@ third_nav_title: Executive Team
 previous capacity, he served as the CEO of a start-up with track records
 in fundraising, securing contracts, awards and establishing partnership
 with local and foreign entities.</p>
-<p>&nbsp;</p>
 <p>Prior to that, he has spent over 15 years of his career in deep technologies
 research and translation in the domains of sensors, wearables, IoT, AI/ML,
 and AR/VR/MR.</p>
-<p>&nbsp;</p>
 <p>Dr Yeo is a recipient of the A*STAR scholarship, and graduated with PhD
 from National University of Singapore.</p>
 <p></p>
