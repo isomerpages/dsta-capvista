@@ -32,7 +32,7 @@ description: ""
 <div class="isomer-card-link">CEO</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/BOD/bod_Jonathan_Ng.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Jonathan NG</div><div class="isomer-card-description">Tower Capital Asia</div><div class="isomer-card-link">Managing Director, Value Creation and Digital</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/Yew_chee_Leung" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/yew-chee-leung/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BG Yew Chee Leung" src="/images/CVPL_Website_BOD_Team_Photo.png">
@@ -70,6 +70,6 @@ description: ""
 <div class="isomer-card-title">Mr Benjamin THAM</div>
 <div class="isomer-card-link">Head of Strategic Partnership</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Yeo Joo Chuan" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Yeo Joo Chuan</div><div class="isomer-card-link">Senior Head of Strategic Partnership</div></div></a>
 </div>
 <p></p>
