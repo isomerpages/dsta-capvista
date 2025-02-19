@@ -9,7 +9,7 @@ third_nav_title: Board of Directors
 <h3></h3>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CHris_amended2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CHris_amended2.png">
 </div>
 <h3><strong>Mr Christopher YEO</strong></h3>
 <blockquote>
