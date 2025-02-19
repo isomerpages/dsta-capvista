@@ -8,7 +8,7 @@ third_nav_title: Board of Directors
 <p></p>
 <h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Chee_Hoo.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Chee_Hoo.jpg">
 </div>
 <h3><strong>Mr CHEONG Chee Hoo</strong></h3>
 <blockquote>
