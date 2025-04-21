@@ -33,7 +33,7 @@ third_nav_title: Executive Team
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/eunice001/"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Executive Team/linkedin_logo_optimized.png"></a>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/bryan-huang-8aaa0976/"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Executive Team/linkedin_logo_optimized.png"></a>
 </th>
 </tr>
 </tbody>
