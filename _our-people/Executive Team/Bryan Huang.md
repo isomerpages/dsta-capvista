@@ -50,4 +50,4 @@ Ministry of Defence and the US Department of Defense. Bryan holds a Bachelor
 of Arts in Criminology and Security from the University of Liverpool. His
 professional interests focus on harnessing novel technologies to enhance
 the operational capabilities of the Singapore Armed Forces, as well as
-analyzing geopolitics and power dynamics in the international arena.London.</p>
+analyzing geopolitics and power dynamics in the international arean.</p>
