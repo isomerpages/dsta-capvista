@@ -71,7 +71,7 @@ description: ""
 <div class="isomer-card-link">Senior Head of Strategic Partnership</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-people/executive-team/benjamin-tham/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Benjamin Tham" src="/images/11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Benjamin THAM</div><div class="isomer-card-link">Head of Strategic Partnership</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.capvista.com.sg/our-people/executive-team/bryan_huang" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.capvista.com.sg/our-people/executive-team/bryan-huang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bryan Huang" src="/images/Bryan.png">
