@@ -19,26 +19,14 @@ third_nav_title: Executive Team
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bryan_s_Profile_picture__1_.png">
-</div>
+</div><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/bryan-huang-8aaa0976/"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Executive Team/linkedin_logo_optimized.png"></a>
 </th>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/bryan-huang-8aaa0976/"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Executive Team/linkedin_logo_optimized.png"></a>
-</th>
-</tr>
-</tbody>
-</table>
-<h4><strong>Mr Bryan Huan</strong></h4>
+<h4><strong>Mr Bryan Huang</strong></h4>
 <blockquote>
 <p>Innovation Lead</p>
 </blockquote>
