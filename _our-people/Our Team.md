@@ -74,7 +74,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.capvista.com.sg/our-people/executive-team/bryan-huang/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bryan Huang" src="/images/Bryan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Bryan Huang" src="/images/Bryan1.png">
 </div>
 </div>
 <div class="isomer-card-body">
