@@ -16,7 +16,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - infopic:
-      title: Strategic Investor
+      title: Corporate Venture
       subtitle: We are
       id: infopic
       description: We partner deep tech startups with innovative solutions to support
@@ -93,7 +93,7 @@ sections:
       button: Know More
       url: /our-people
       alt: Image alt text
-      image: /images/CVPL_Website__1_.png
+      image: /images/CVPL_3.png
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
