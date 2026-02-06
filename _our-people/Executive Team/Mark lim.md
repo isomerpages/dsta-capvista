@@ -20,7 +20,7 @@ third_nav_title: Executive Team
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mark.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mark.png">
 </div><a class="isomer-image-wrapper" href="https://www.linkedin.com/in/marklimxy/"><img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Executive Team/linkedin_logo_optimized.png"></a>
 </th>
 </tr>
