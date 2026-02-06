@@ -7,7 +7,7 @@ third_nav_title: Executive Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/JH.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/JH.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
