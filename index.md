@@ -93,7 +93,7 @@ sections:
       button: Know More
       url: /our-people
       alt: Image alt text
-      image: /images/CVPL_3.png
+      image: /images/Cap_Vista_Team_2026.jpg
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar
