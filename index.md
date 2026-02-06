@@ -19,8 +19,8 @@ sections:
       title: Corporate Venture
       subtitle: We are
       id: infopic
-      description: We partner deep tech startups with innovative solutions to support
-        Singapore's national security.
+      description: We partner global tech startups with innovative solutions to
+        support Singapore's national security.
       button: Learn More
       url: /about-us
       alt: Image alt text
@@ -93,7 +93,7 @@ sections:
       button: Know More
       url: /our-people
       alt: Image alt text
-      image: /images/CVPL_3.png
+      image: /images/Cap_Vista_Team_2026.jpg
   - infobar:
       title: Have a Game-Changing Tech Solution?
       id: infobar

@@ -81,6 +81,6 @@ description: ""
 <div class="isomer-card-title">Mr Bryan Huang</div>
 <div class="isomer-card-link">Innovation Lead</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.capvista.com.sg/our-people/executive-team/mark-lim" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mark Lim" src="/images/Mark_s_profile_pic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Mark Lim</div><div class="isomer-card-link">Senior Head of Innovation</div></div></a>
 </div>
 <p></p>
