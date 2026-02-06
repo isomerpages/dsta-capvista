@@ -42,14 +42,13 @@ third_nav_title: Executive Team
 <blockquote>
 <p>CEO</p>
 </blockquote>
-<p>Eunice focuses in leading and steering Cap Vista in maximizing the technology
-returns of corporate venture capital programmes and activities to harness
-commercial, dual-use technologies for Singapore's defence and national
-security. She served many years managing defence programmes from front-end
-planning, acquisition and delivery of technological capabilities and as
-a Deputy Director, she drove business transformation through business process
-re-engineering and built her team to support data-driven decision making
-in Defence Science &amp; Technology Agency.</p>
+<p>Eunice focuses in leading and steering Cap Vista to harness commercial,
+dual-use technologies for Singapore's defence and national security. She
+served many years managing defence programmes from front-end planning,
+acquisition and delivery of technological capabilities and as a Deputy
+Director, she drove business transformation through business process re-engineering
+and built her team to support data-driven decision making in Defence Science
+&amp; Technology Agency.</p>
 <p>Prior to that, Eunice worked in the private sector to manage transformation
 projects of &gt;$80 million value for large international corporates in
 Singapore. Her entrepreneurial instinct had also led her to co-found a
