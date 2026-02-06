@@ -19,8 +19,8 @@ sections:
       title: Corporate Venture
       subtitle: We are
       id: infopic
-      description: We partner deep tech startups with innovative solutions to support
-        Singapore's national security.
+      description: We partner global tech startups with innovative solutions to
+        support Singapore's national security.
       button: Learn More
       url: /about-us
       alt: Image alt text
