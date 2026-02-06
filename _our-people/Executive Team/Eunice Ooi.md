@@ -21,7 +21,7 @@ third_nav_title: Executive Team
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/E.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/E.png">
 </div>
 </th>
 </tr>
@@ -42,19 +42,18 @@ third_nav_title: Executive Team
 <blockquote>
 <p>CEO</p>
 </blockquote>
-<p>Eunice is the CEO in Cap Vista. Her focus is in leading and steering Cap
-Vista in maximizing the technology returns of corporate venture capital
-programmes and activities that build up and strengthen the capability of
-startups/SMEs of value to Singapore’s defence. She has served many years
-managing defence programmes from front-end planning, acquisition and delivery
-of technological capabilities and as a Deputy Director, she drove business
-transformation through business process re-engineering and built her team
-to support data-driven decision making in Defence Science &amp; Technology
-Agency.</p>
-<p>Prior to that, Eunice worked in the private sector to manage and control
-development and fit out projects of &gt;$80 million value for large MNCs
-in Singapore. Her entrepreneurial instinct had also led her to co-found
-a proptech startup with industry veterans, and received Startup SG Founder
+<p>Eunice focuses in leading and steering Cap Vista in maximizing the technology
+returns of corporate venture capital programmes and activities to harness
+commercial, dual-use technologies for Singapore's defence and national
+security. She served many years managing defence programmes from front-end
+planning, acquisition and delivery of technological capabilities and as
+a Deputy Director, she drove business transformation through business process
+re-engineering and built her team to support data-driven decision making
+in Defence Science &amp; Technology Agency.</p>
+<p>Prior to that, Eunice worked in the private sector to manage transformation
+projects of &gt;$80 million value for large international corporates in
+Singapore. Her entrepreneurial instinct had also led her to co-found a
+proptech startup with industry veterans, and received Startup SG Founder
 grant from Enterprise Singapore.</p>
 <p>Eunice is a recipient of the DSTA Scholarship, and graduated with MEng(Mechanical
 Engineering) from Imperial College, London.</p>
