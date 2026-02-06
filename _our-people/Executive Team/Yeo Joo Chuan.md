@@ -15,7 +15,7 @@ third_nav_title: Executive Team
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Yeo Joo Chuan" src="/images/Joo_Chuan_s_photo_for_cvpl_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Yeo Joo Chuan" src="/images/Joo_Chuan_s_photo_for_cvpl_website.jpg">
 </div>
 </th>
 </tr>
