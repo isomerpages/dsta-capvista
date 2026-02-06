@@ -34,7 +34,7 @@ third_nav_title: Executive Team
 <p>Mark began his journey as a deep tech startup founder, building and eventually
 exiting the business. Since then, he has held innovation roles in organisations
 such as SATS, A*STAR, ST Engineering, and CMA CGM, focusing on translating
-emerging technologies into real-world applications. Mark works closely
-with both startups and corporates to bridge the gap between innovation
-and execution, with a particular interest in advanced manufacturing and
-engineering.</p>
+emerging technologies into real-world applications.</p>
+<p>Mark works closely with both startups and corporates to bridge the gap
+between innovation and execution, with a particular interest in advanced
+manufacturing and engineering.</p>
