@@ -20,30 +20,18 @@ description: ""
 <div class="isomer-card-link">Chief Executive Officer</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/loke-mun-kwong" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Loke Mun Kwong" src="/images/MK.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr LOKE Mun Kwong</div><div class="isomer-card-description">DSTA</div><div class="isomer-card-link">Deputy Chief Executive (National Engineering)</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/christopher-yeo" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Christopher Yeo" src="/images/CHris_amended2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/Jonathan__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Christopher YEO</div>
-<div class="isomer-card-description">Sentient.io</div>
-<div class="isomer-card-link">CEO</div>
+<div class="isomer-card-title">Mr Jonathan NG</div>
+<div class="isomer-card-description">Tower Capital Asia</div>
+<div class="isomer-card-link">Managing Director, Value Creation and Digital</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/jonathan-ng" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jonathan Ng" src="/images/Jonathan__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Jonathan NG</div><div class="isomer-card-description">Tower Capital Asia</div><div class="isomer-card-link">Managing Director, Value Creation and Digital</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/yew-chee-leung" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YEW CHEE LEUNG" src="/images/CVPL_Website_BOD_Team_Photo.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">BG YEW Chee Leung</div>
-<div class="isomer-card-description">MINDEF</div>
-<div class="isomer-card-link">Deputy Secretary (Technology)</div>
-</div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/our-people/board-of-directors/yew-chee-leung" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="YEW CHEE LEUNG" src="/images/CVPL_Website_BOD_Team_Photo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BG YEW Chee Leung</div><div class="isomer-card-description">MINDEF</div><div class="isomer-card-link">Deputy Secretary (Technology)</div></div></a>
 </div>
 <hr>
 <p></p>
