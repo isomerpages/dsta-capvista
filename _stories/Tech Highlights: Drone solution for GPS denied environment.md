@@ -25,6 +25,7 @@ are flown without the guidance of GPS with high precision. This formed
 the pillar behind the company’s focus on GPS-denied and confined space
 inspection in the Oil &amp; Gas sector, one of the toughest environments
 to operate in.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PHOTO_2024_01_11_16_36_32.jpg">
 </div>
