@@ -25,8 +25,9 @@ into attention, fatigue, and stress. Its neuro AI platform strengthens
 mission critical operations and elevates training simulations through adaptive
 feedback, ensuring systems align with human cognitive limits to keep operators'
 mission ready.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innobrain_pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Innobrain's solutions" src="/images/Innobrain_image.png">
 </div>
 <p><em>Transforming neural data into actionable insights through real time cognitive monitoring and data driven performance analysis.</em>
 </p>
