@@ -5,49 +5,43 @@ variant: tiptap
 description: "InnoBrain: Turning Brain Signals into Mission Advantage"
 ---
 <blockquote>
-<p><strong>“<em>We had the opportunity to introduce our unique capabilities to the different parties through Cap Vista's network. These valuable collaboration opportunities also served as a rigorous test for our technology, enabling us to further hone, develop and iterate our product suite towards current market needs”.</em></strong>
-</p>
-<p><em>Keith Ng, Co-Founder, Performance Rotors (Singapore)</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quote by Innobrain" src="/images/Innobrain___Quote.png">
+</div>
 </blockquote>
-<h4><strong>Not just any drone company but a supplier of drone technology</strong></h4>
-<p>In the current world, any hobbyist or enthusiast could build a drone or
-obtain one commercially for recreation. Performance Rotors recognised early
-that a drone was not just a piece of “flying hardware” but a versatile
-platform upon which enabling technologies could be built on. These component
-technologies, in turn, could also be commercialized and sold as products.
-A team of various specializations comprising hardware engineers, software
-developers, robotics aficionados, computer vision experts and industry
-veterans was meticulously assembled to realise this vision.</p>
-<p>The founding team of Performance Rotors - Keith, Mark and Mervin first
-forged their friendship with the common passion for racing drones, which
-are flown without the guidance of GPS with high precision. This formed
-the pillar behind the company’s focus on GPS-denied and confined space
-inspection in the Oil &amp; Gas sector, one of the toughest environments
-to operate in.&nbsp;</p>
-<p></p>
+<h4><strong>Beyond Biometrics: Measuring the Mind in Mission Environments</strong></h4>
+<p>In defence operations, understanding human cognition is vital, as mission
+success often hinges on readiness under pressure. Traditional biometrics
+provide indirect indicators but fall short in capturing real time neuro
+responses that truly define actual performance.</p>
+<p>EEG technology changes that, offering a direct window into the brain for
+precise measurement of cognitive states and unlocking new ways to enhance
+resilience and effectiveness.</p>
+<h4><strong>InnoBrain: Turning Brain Signals into Mission Advantage</strong></h4>
+<p>InnoBrain, a Swedish startup spun off from KTH Royal Institute of Technology,
+combines non invasive EEG with advanced AI to deliver real time insights
+into attention, fatigue, and stress. Its neuro AI platform strengthens
+mission critical operations and elevates training simulations through adaptive
+feedback, ensuring systems align with human cognitive limits to keep operators'
+mission ready.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/PHOTO_2024_01_11_16_36_32.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Innobrain_pic.jpg">
 </div>
-<p><em>Performance Rotors Founding Team: Keith (Center), Mervin (Left) and Mark (Right)</em>
+<p><em>Transforming neural data into actionable insights through real time cognitive monitoring and data driven performance analysis.</em>
 </p>
-<h4><strong>Building drones to go where no man should</strong></h4>
-<p>While honing their craft, they expanded their product offering towards
-inspection activities (infrastructure &amp; maritime), often mitigating
-the need for workers to inspect dangerous and challenging confined environments.
-This evolution essentially rendered inspection processes safer, more efficient
-and cost effective.</p>
-<p>Looking towards the future, the team innovates rapidly to strengthen their
-capabilities extending beyond visual inspection and data acquisition in
-challenging environments.&nbsp;&nbsp;</p>
-<p><em>Enabling Safe Inspections in the Maritime, Civil and Oil and Gas Industry</em>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Thermal visual inspection by Performance Rotors" src="/images/Perfornace_rotors_thermal_and_visual_inspections.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pipe inspection by Performance Rotors" src="/images/Performance_Rotors_drone_utilisation_report_3.png">
-</div>
-<p></p>
+<h4><strong>From Insight to Impact: Smarter Training, Stronger Performance with AI approach</strong></h4>
+<p>InnoBrain was contracted under Cap Vista Accelerator- Solicitation 1.0,
+aligned with the challenge statement on enhancing training through cognitive
+analysis. Their simulator agnostic solution applies EEG based insights
+to refine differentiated operator training.</p>
+<p>InnoBrain leverages a modular AI approach to extract a wide range of cognitive
+attributes, which significantly enhances the effectiveness of training
+programmes. This is particularly evident in land-based driving scenarios,
+where understanding and optimising cognitive states are critical for operator’s
+performance.</p>
+<p>By integrating both live and simulator-based trainings, InnoBrain’s solution
+ensures that mental states are continuously monitored and adjusted. This
+approach better understand human-system interaction that influences safety,
+performance and mission outcome.</p>
 <p></p>
