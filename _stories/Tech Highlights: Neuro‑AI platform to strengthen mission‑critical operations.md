@@ -7,7 +7,7 @@ description: "InnoBrain: Turning Brain Signals into Mission Advantage"
 <blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Quote by Innobrain" src="/images/Innobrain___Quote.png">
+<img style="width: 100%" height="auto" width="100%" alt="Quote by Innobrain" src="/images/Innobrain__Testimonial.png">
 </div>
 </blockquote>
 <h4><strong>Beyond Biometrics: Measuring the Mind in Mission Environments</strong></h4>
