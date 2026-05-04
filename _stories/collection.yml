@@ -3,7 +3,8 @@ collections:
     output: true
     order:
       - Overview.md
-      - example.md
+      - "Tech Highlights: Neuro‑AI platform to strengthen mission‑critical
+        operations.md"
       - "Tech Highlights: Drone solution for GPS denied environment.md"
       - "Tech Highlights: Generating 2D & 3D synthetic data for AI & ML
         training.md"
