@@ -2,12 +2,12 @@ collections:
   stories:
     output: true
     order:
-      - "Tech Highlights: Drone‑based solution for aviation efficiency.md"
       - Overview.md
       - "Tech Highlights: Neuro‑AI platform to strengthen mission‑critical
         operations.md"
       - "Tech Highlights: Deepfake generation for benchmarking of detection
         systems.md"
+      - "Tech Highlights: Drone‑based solution for aviation efficiency.md"
       - "Tech Highlights: Drone solution for GPS denied environment.md"
       - "Tech Highlights: Generating 2D & 3D synthetic data for AI & ML
         training.md"
