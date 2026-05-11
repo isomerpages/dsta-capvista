@@ -20,20 +20,6 @@ of “flying hardware” but a versatile platform upon which enabling technologi
 could be built on.</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Highlights: Neuro‑AI platform to strengthen mission‑critical operations" src="/images/Innobrain_Cover_Pic.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Tech Highlights: Neuro‑AI platform to strengthen mission‑critical operations</div>
-<div class="isomer-card-description">A spin off from Sweden's KTH Royal Institute of Technology, Innobrain’s
-non-invasive EEG and neuro‑AI platform translates brain signals into actionable
-insights on attention, fatigue and stress to enhance training and mission
-readiness.</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="/stories/innobrain" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Highlights: Neuro‑AI platform to strengthen mission‑critical operations" src="/images/Innobrain_Cover_Pic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Highlights: Neuro‑AI platform to strengthen mission‑critical operations</div><div class="isomer-card-description">A spin off from Sweden's KTH Royal Institute of Technology, Innobrain’s non-invasive EEG and neuro‑AI platform translates brain signals into actionable insights on attention, fatigue and stress to enhance training and mission readiness.</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
