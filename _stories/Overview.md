@@ -29,10 +29,10 @@ could be built on.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Tech Highlights: Neuro‑AI platform to strengthen mission‑critical operations</div>
-<div class="isomer-card-description">A spin off from KTH Royal Institute of Technology, Innobrain’s non-invasive
-EEG and neuro‑AI platform translates brain signals into actionable insights
-on attention, fatigue and stress to enhance mission readiness and training
-by aligning systems with human cognitive limits.</div>
+<div class="isomer-card-description">A spin off from Sweden's KTH Royal Institute of Technology, Innobrain’s
+non-invasive EEG and neuro‑AI platform translates brain signals into actionable
+insights on attention, fatigue and stress to enhance training and mission
+readiness.</div>
 </div>
 </div>
 </div>
