@@ -34,6 +34,5 @@ environments.&nbsp;</p>
 <h4><strong>Turning AI assurance into operational confidence</strong></h4>
 <p>Under Solicitation 1.0 of the Cap Vista Accelerator, Resaro was selected
 to demonstrate its assurance platform in benchmarking deepfake detection
-capabilities.</p>
-<p>Resaro’s platform stands out with their rigorous approach in testing and
-validating the AI system to ensure its robustness before actual deployment.&nbsp;</p>
+capabilities. The platform applies a rigorous approach in testing and validating
+the AI system to ensure its robustness before actual deployment.&nbsp;</p>
