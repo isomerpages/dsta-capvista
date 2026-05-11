@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - "Tech Highlights: Drone‑based solution for aviation efficiency.md"
       - Overview.md
       - "Tech Highlights: Neuro‑AI platform to strengthen mission‑critical
         operations.md"
