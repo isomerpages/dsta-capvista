@@ -37,4 +37,3 @@ benchmarking deepfake detection capabilities, Resaro was chosen to demonstrate
 its assurance platform.&nbsp;</p>
 <p>Resaro’s platform stands out with their rigorous approach in testing and
 validating the AI system to ensure its robustness before actual deployment.&nbsp;</p>
-<p></p>
