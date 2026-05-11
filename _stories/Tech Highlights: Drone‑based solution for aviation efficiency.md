@@ -12,9 +12,10 @@ description: "Colibrex: Drone‑based solution for aviation efficiency"
 </blockquote>
 <h4><strong>From flight checks to smart checks</strong></h4>
 <p>Colibrex’s <strong>Navidrone </strong>is a specialized drone used to inspect,
-calibrate, and maintain airport navigation aids like Instrument Landing
-Systems (ILS) and VOR/DME. It captures, analyzes, and reports signal data
-in real-time, replacing or complementing traditional manned flight checks
+calibrate, and maintain airport navigation aids like ILS (Instrument Landing
+Systems) and VOR (Very High Frequency Omnidirectional Range)/DME(Distance
+Measuring Equipment). It captures, analyzes, and reports signal data in
+real-time, replacing or complementing traditional manned flight checks
 and ground-based testing, thus reducing costs and runway downtime.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Innovations by Colibrex" src="/images/Colibrex_pics.png">
