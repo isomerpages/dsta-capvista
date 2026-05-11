@@ -14,8 +14,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tech Highlights: Deepfake generation for benchmarking detection systems
-a title for your card</div>
+<div class="isomer-card-title">Tech Highlights: Deepfake generation for benchmarking detection systems</div>
 <div class="isomer-card-description">Resaro applies safety-critical engineering principles to assure mission-critical
 AI systems. Through rigorous stress testing and deepfake benchmarking under
 complex scenarios, its platform helps defence users validate AI robustness,
