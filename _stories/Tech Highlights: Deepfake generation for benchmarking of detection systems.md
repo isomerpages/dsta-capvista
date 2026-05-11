@@ -32,8 +32,8 @@ environments.&nbsp;</p>
 </div>
 <p><em>Resaro’s platform delivers air</em>‑<em>gapped, on</em>‑<em>premise infrastructure for the full AI lifecycle - providing structured evidence to validate and deploy mission</em>‑<em>critical AI with confidence.</em>&nbsp;</p>
 <h4><strong>Turning AI assurance into operational confidence</strong></h4>
-<p>Under Solicitation 1.0 of the Cap Vista Accelerator, which focused on
-benchmarking deepfake detection capabilities, Resaro was chosen to demonstrate
-its assurance platform.&nbsp;</p>
+<p>Under Solicitation 1.0 of the Cap Vista Accelerator, Resaro was selected
+to demonstrate its assurance platform in benchmarking deepfake detection
+capabilities.</p>
 <p>Resaro’s platform stands out with their rigorous approach in testing and
 validating the AI system to ensure its robustness before actual deployment.&nbsp;</p>
