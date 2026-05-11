@@ -10,7 +10,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/stories/resaro" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Highlights: Deepfake generation for benchmarking detection systems" src="/images/Resaro_cover_pic.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Highlights: Deepfake generation for benchmarking detection systems" src="/images/Resaro_cover_pic__1_.png">
 </div>
 </div>
 <div class="isomer-card-body">
