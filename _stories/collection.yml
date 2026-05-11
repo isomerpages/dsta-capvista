@@ -2,7 +2,8 @@ collections:
   stories:
     output: true
     order:
-      - Deepfake generation for benchmarking of detection systems.md
+      - "Tech Highlights: Deepfake generation for benchmarking of detection
+        systems.md"
       - Overview.md
       - "Tech Highlights: Neuro‑AI platform to strengthen mission‑critical
         operations.md"
