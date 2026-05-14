@@ -5,12 +5,8 @@ variant: tiptap
 description: "Colibrex: Drone‑based solution for aviation efficiency"
 ---
 <blockquote>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonial by Colibrex" src="/images/Colibrex__Testimonial.png">
-</div>
-</blockquote>
 <h4><strong>From flight checks to smart checks</strong></h4>
+</blockquote>
 <p>Colibrex’s <strong>Navidrone </strong>is a specialized drone used to inspect,
 calibrate, and maintain airport navigation aids like ILS (Instrument Landing
 Systems) and VOR (Very High Frequency Omnidirectional Range)/DME(Distance
@@ -32,4 +28,7 @@ reliability, and relevance.&nbsp;</p>
 <p>The trial validated the readiness of Colibrex’s solution for deployment
 in Singapore, as well as creating pathway for broader dual-use applications
 in the region.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial by Colibrex" src="/images/Colibrex__Testimonial.png">
+</div>
 <p></p>
