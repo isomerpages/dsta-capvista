@@ -6,9 +6,6 @@ description: Resaro, deepfake detection systems
 ---
 <blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonial by Resaro" src="/images/Resaro__Testimonial.png">
-</div>
 </blockquote>
 <h4><strong>Building trust in mission-critical AI</strong></h4>
 <p>Unlike conventional software, AI models can behave unpredictably in unfamiliar
@@ -20,6 +17,9 @@ security of mission‑critical AI systems. Its orchestration platform generates
 multi‑modal, context‑specific deepfake content, enabling defence users
 to benchmark and assess deepfake detection systems with scientific and
 reliable testing approaches.&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial by Resaro" src="/images/Resaro__Testimonial.png">
+</div>
 <h4><strong>Stress-testing AI for mission readiness</strong></h4>
 <p>Resaro’s approach goes beyond identifying vulnerabilities. By simulating
 hostile and complex conditions and stress testing AI systems under diverse
@@ -32,7 +32,8 @@ environments.&nbsp;</p>
 </div>
 <p><em>Resaro’s platform delivers air</em>‑<em>gapped, on</em>‑<em>premise infrastructure for the full AI lifecycle - providing structured evidence to validate and deploy mission</em>‑<em>critical AI with confidence.</em>&nbsp;</p>
 <h4><strong>Turning AI assurance into operational confidence</strong></h4>
-<p>Under Solicitation 1.0 of the Cap Vista Accelerator, Resaro was selected
-to demonstrate its assurance platform in benchmarking deepfake detection
-capabilities. The platform applies a rigorous approach in testing and validating
-the AI system to ensure its robustness before actual deployment.&nbsp;</p>
+<p>Under Solicitation 1.0 of the <a href="https://accelerator.capvista.com.sg/en" rel="noopener nofollow" target="_blank">Cap Vista Accelerator</a>,
+Resaro was selected to demonstrate its assurance platform in benchmarking
+deepfake detection capabilities. The platform applies a rigorous approach
+in testing and validating the AI system to ensure its robustness before
+actual deployment.&nbsp;</p>
