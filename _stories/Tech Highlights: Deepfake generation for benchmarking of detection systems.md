@@ -5,9 +5,8 @@ variant: tiptap
 description: Resaro, deepfake detection systems
 ---
 <blockquote>
-<p></p>
-</blockquote>
 <h4><strong>Building trust in mission-critical AI</strong></h4>
+</blockquote>
 <p>Unlike conventional software, AI models can behave unpredictably in unfamiliar
 scenarios. For defence applications, this unpredictability poses significant
 risks -trust in AI is not optional, it is mission critical.&nbsp;</p>
