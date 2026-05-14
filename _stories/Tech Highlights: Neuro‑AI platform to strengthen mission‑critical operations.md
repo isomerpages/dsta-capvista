@@ -6,18 +6,15 @@ description: "InnoBrain: Turning Brain Signals into Mission Advantage"
 ---
 <blockquote>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Quote by Innobrain" src="/images/Innobrain__Testimonial.png">
-</div>
 </blockquote>
 <h4><strong>Beyond Biometrics: Measuring the Mind in Mission Environments</strong></h4>
 <p>In defence operations, understanding human cognition is vital, as mission
 success often hinges on readiness under pressure. Traditional biometrics
 provide indirect indicators but fall short in capturing real time neuro
 responses that truly define actual performance.</p>
-<p>EEG technology changes that, offering a direct window into the brain for
-precise measurement of cognitive states and unlocking new ways to enhance
-resilience and effectiveness.</p>
+<p>Electroencephalogram<em> (</em>EEG) technology changes that, offering
+a direct window into the brain for precise measurement of cognitive states
+and unlocking new ways to enhance resilience and effectiveness.</p>
 <h4><strong>InnoBrain: Turning Brain Signals into Mission Advantage</strong></h4>
 <p>InnoBrain, a Swedish startup spun off from KTH Royal Institute of Technology,
 combines non invasive EEG with advanced AI to deliver real time insights
@@ -44,4 +41,7 @@ performance.</p>
 ensures that mental states are continuously monitored and adjusted. This
 approach better understand human-system interaction that influences safety,
 performance and mission outcome.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Quote by Innobrain" src="/images/Innobrain__Testimonial.png">
+</div>
 <p></p>
