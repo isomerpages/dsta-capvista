@@ -5,9 +5,8 @@ variant: tiptap
 description: "InnoBrain: Turning Brain Signals into Mission Advantage"
 ---
 <blockquote>
-<p></p>
-</blockquote>
 <h4><strong>Beyond Biometrics: Measuring the Mind in Mission Environments</strong></h4>
+</blockquote>
 <p>In defence operations, understanding human cognition is vital, as mission
 success often hinges on readiness under pressure. Traditional biometrics
 provide indirect indicators but fall short in capturing real time neuro
