@@ -28,10 +28,10 @@ mission ready.</p>
 <p><em>Transforming neural data into actionable insights through real time cognitive monitoring and data driven performance analysis.</em>
 </p>
 <h4><strong>From Insight to Impact: Smarter Training, Stronger Performance with AI approach</strong></h4>
-<p>InnoBrain was contracted under Cap Vista Accelerator- Solicitation 1.0,
-aligned with the challenge statement on enhancing training through cognitive
-analysis. Their simulator agnostic solution applies EEG based insights
-to refine differentiated operator training.</p>
+<p>InnoBrain was contracted under <a href="https://accelerator.capvista.com.sg/en" rel="noopener nofollow" target="_blank">Cap Vista Accelerator</a>-
+Solicitation 1.0, aligned with the challenge statement on enhancing training
+through cognitive analysis. Their simulator agnostic solution applies EEG
+based insights to refine differentiated operator training.</p>
 <p>InnoBrain leverages a modular AI approach to extract a wide range of cognitive
 attributes, which significantly enhances the effectiveness of training
 programmes. This is particularly evident in land-based driving scenarios,
